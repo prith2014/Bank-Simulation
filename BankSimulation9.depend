@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1477806613 source:c:\users\prithvi\dropbox\year 3\program methology 2\project\banksimulation9\customer_functions.cpp
+	<iostream>
+	"Customer.h"
+
+1477806612 c:\users\prithvi\dropbox\year 3\program methology 2\project\banksimulation9\customer.h
+	<iostream>
+	<vector>
+
+1477898466 source:c:\users\prithvi\dropbox\year 3\program methology 2\project\banksimulation9\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"Customer.h"
+	"Queue.h"
+	"Teller.h"
+
+1477869758 c:\users\prithvi\dropbox\year 3\program methology 2\project\banksimulation9\queue.h
+	<iostream>
+	<vector>
+
+1477854637 c:\users\prithvi\dropbox\year 3\program methology 2\project\banksimulation9\teller.h
+	<iostream>
+
+1477806741 source:c:\users\prithvi\dropbox\year 3\program methology 2\project\banksimulation9\teller_functions.cpp
+	<iostream>
+	"Teller.h"
+
+1477810213 source:c:\users\prithvi v\dropbox\year 3\program methology 2\project\banksimulation9\customer_functions.cpp
+	<iostream>
+	"Customer.h"
+
+1477810212 c:\users\prithvi v\dropbox\year 3\program methology 2\project\banksimulation9\customer.h
+	<iostream>
+	<vector>
+
+1477902066 source:c:\users\prithvi v\dropbox\year 3\program methology 2\project\banksimulation9\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"Customer.h"
+	"Queue.h"
+	"Teller.h"
+
+1477873358 c:\users\prithvi v\dropbox\year 3\program methology 2\project\banksimulation9\queue.h
+	<iostream>
+	<vector>
+
+1477858237 c:\users\prithvi v\dropbox\year 3\program methology 2\project\banksimulation9\teller.h
+	<iostream>
+
+1477810341 source:c:\users\prithvi v\dropbox\year 3\program methology 2\project\banksimulation9\teller_functions.cpp
+	<iostream>
+	"Teller.h"
+
+1477806613 source:c:\users\prithvi v\dropbox\year 3\fall\program methology 2\project\banksimulation9\customer_functions.cpp
+	<iostream>
+	"Customer.h"
+
+1477806612 c:\users\prithvi v\dropbox\year 3\fall\program methology 2\project\banksimulation9\customer.h
+	<iostream>
+	<vector>
+
+1477898466 source:c:\users\prithvi v\dropbox\year 3\fall\program methology 2\project\banksimulation9\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"Customer.h"
+	"Queue.h"
+	"Teller.h"
+
+1477869758 c:\users\prithvi v\dropbox\year 3\fall\program methology 2\project\banksimulation9\queue.h
+	<iostream>
+	<vector>
+
+1477854637 c:\users\prithvi v\dropbox\year 3\fall\program methology 2\project\banksimulation9\teller.h
+	<iostream>
+
+1477806741 source:c:\users\prithvi v\dropbox\year 3\fall\program methology 2\project\banksimulation9\teller_functions.cpp
+	<iostream>
+	"Teller.h"
+
